@@ -152,4 +152,5 @@ if __name__=="__main__": # bloque principal del programa, se ejecuta solo si el 
               print("\nNo hay estudiantes registrados.")# muestro todos los estudiantes
        print(40*"=")
        print(40*"=")
-       
+
+       #Prueba
