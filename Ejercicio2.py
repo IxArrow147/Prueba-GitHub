@@ -154,3 +154,6 @@ if __name__=="__main__": # bloque principal del programa, se ejecuta solo si el 
        print(40*"=")
 
        #Prueba
+
+
+       #Prueba
